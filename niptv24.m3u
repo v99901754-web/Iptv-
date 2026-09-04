@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 group-title="Развлекательные ",STS LOVE
+http://89.33.29.115:8080/STS_Love/index.m3u8
+#EXTINF:-1 group-title="Развлекательные ",СТС HD
+http://89.33.29.115:8080/STS_HD/index.m3u8
+#EXTINF:-1,Пятница International
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1,СТС International
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1,НТК
+https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
+#EXTINF:-1,Перец. Internatonal 
+https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl2",Первый (+2)
+#EXTINF:-1 group-title="Детские " tvg-rec="7" timeshift="7",Мульт
+http://stream.mcquack.net/232/index.m3u8
+#EXTINF:-1,Беларусь 24 HD
+https://ucdn.beetv.kz/bpk-tv/000000360/tve/index.m3u8
+#EXTINF:-1,ULYTAU
+https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал HD +4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://77.235.1.19:8000/play/a073/index.m3u8
+EXTINF:-1,1HD
+https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1,HIT TV
+https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1,MUZZONE
+https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1,Музыка Первого
+https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1,ТНТ Music
+https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1,Шансон ТВ
+https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1,MTV Live HD
+https://ucdn.beetv.kz/bpk-tv/000000447/tve/index.m3u8
+#EXTINF:-1,MTV 00s
+https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
+#EXTINF:-1,Mezzo
+https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+EXTINF:-1,Cartoonito
+https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1,Cartoon Network
+https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
+#EXTINF:-1,Da Vinci
+https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1,Gulli Girl
+https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1,Nicktoons
+https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1,Nickelodeon
+https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1,Детский мир
+https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1,Лёва
+https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1,TiJi
+https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:-1,Лапки LIVE
+https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8
+#EXTINF:-1,Мультиландия
+https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1,О!
+https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1,СТС Kids
+https://ucdn.beetv.kz/bpk-tv/000003892/tve/index.m3u8
+#EXTINF:-1,Мульт
+https://ucdn.beetv.kz/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1,В гостях у сказки
+https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
+#EXTINF:-1,БОБЕР
+https://ucdn.beetv.kz/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1,Nick Jr
+https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1,Карусель International
+https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
